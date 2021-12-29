@@ -8,8 +8,3 @@ function palindrome(str) {
   }
   return newStr === reverseStr;
 }
-
-
-
-console.log(palindrome("eye"));
-console.log(palindrome("0_0 (: /-\ :) 0-0"));
